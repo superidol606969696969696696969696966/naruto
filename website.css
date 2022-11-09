@@ -1,0 +1,26 @@
+img {
+  height: 500px;
+  width: 500px;
+  margin-left: 200px;
+}
+h1 {
+  font-size: 50px;
+  margin-left: 200px;
+}
+p {
+  font-size: 100px;
+  margin-left: 200px;
+  color: green;
+}
+.main {
+  background-color: yellow;
+  font: 2rem sans-serif;
+  margin-left: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+ {
+  transform: rotate(90deg);
+}
